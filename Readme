@@ -1,0 +1,75 @@
+# 📊 AI Data Analyst Agent
+
+An AI-powered data analysis application that allows users to upload CSV or Excel files and ask questions about their data using natural language.
+
+The application uses **Groq LLM** to generate Python/Pandas analysis code, executes the generated code on the actual uploaded dataset, and presents the computed results with tables, visualizations, and AI-generated explanations.
+
+---
+
+## 🚀 Project Overview
+
+Traditional data analysis often requires users to know Python, SQL, or Excel formulas.
+
+The **AI Data Analyst Agent** provides a natural-language interface where users can simply ask questions such as:
+
+> Which region has the highest sales?
+
+or
+
+> Which region grew fastest last quarter?
+
+The system understands the question, generates appropriate Pandas code, executes the calculation on the uploaded dataset, and displays the result.
+
+---
+
+## ✨ Features
+
+- 📁 Upload CSV files
+- 📊 Upload Excel `.xlsx` files
+- 🔍 Automatically inspect dataset structure
+- 📋 Preview uploaded data
+- 📈 View dataset statistics
+- 🔎 View column information
+- 💬 Ask questions in natural language
+- 🤖 Generate Pandas code using Groq
+- 🧮 Perform real calculations on the dataset
+- 📊 Display computed results
+- 📈 Generate supporting visualizations
+- 🐍 Display generated Python code
+- 💡 Generate natural-language explanations
+- ⬇️ Download analysis results
+- 📅 Support date and quarterly analysis
+- 🛡️ Basic restrictions on generated code
+
+---
+
+# 🧠 How the Project Works
+
+The project follows this workflow:
+
+```text
+User Uploads CSV / Excel
+          │
+          ▼
+   Pandas DataFrame
+          │
+          ▼
+ Natural Language Question
+          │
+          ▼
+       Groq LLM
+          │
+          ▼
+ Generated Python/Pandas Code
+          │
+          ▼
+ Execute Code on Real Dataset
+          │
+          ▼
+    Computed Result
+       │       │
+       ▼       ▼
+   AI Answer  Chart
+       │
+       ▼
+   User Interface

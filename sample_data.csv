@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer,Region,State,City,Category,Product,Quantity,Sales,Discount,Profit,Salesperson
+1,2025-10-07,Customer_12,North,Delhi,Delhi,Furniture,Desk,3,146295.0,0,32064.19,Salesperson_10
+2,2025-04-12,Customer_92,West,Maharashtra,Mumbai,Electronics,Smartphone,4,107577.6,20,6092.55,Salesperson_11
+3,2025-03-21,Customer_28,West,Maharashtra,Pune,Clothing,Shirt,3,117945.15,15,15929.98,Salesperson_13
+4,2025-01-23,Customer_94,East,West Bengal,Kolkata,Office,Printer,6,110596.8,20,12843.63,Salesperson_8
+5,2025-04-27,Customer_99,North,Punjab,Amritsar,Clothing,Jacket,10,131010.0,0,8051.36,Salesperson_5
+6,2025-07-01,Customer_27,North,Delhi,Delhi,Office,Pen,8,303552.0,10,27521.09,Salesperson_11
+7,2025-11-24,Customer_89,East,Bihar,Patna,Furniture,Desk,3,78524.7,15,9225.63,Salesperson_9
+8,2025-04-19,Customer_73,South,Telangana,Hyderabad,Electronics,Smartphone,1,17997.05,15,2104.49,Salesperson_15
+9,2025-10-15,Customer_69,East,West Bengal,Kolkata,Office,Monitor,3,50898.15,5,5683.13,Salesperson_5
+10,2025-01-25,Customer_15,West,Rajasthan,Jaipur,Clothing,Jeans,3,86424.6,15,6285.43,Salesperson_3
+11,2025-10-11,Customer_2,South,Telangana,Hyderabad,Electronics,Headphones,7,235334.4,15,42896.42,Salesperson_11
+12,2025-05-15,Customer_65,North,Haryana,Faridabad,Clothing,Shirt,5,137712.0,5,22506.4,Salesperson_13
+13,2025-09-29,Customer_1,South,Telangana,Hyderabad,Clothing,Jeans,3,71261.4,5,13172.3,Salesperson_10
+14,2025-10-18,Customer_11,East,Odisha,Bhubaneswar,Electronics,Tablet,5,80960.0,0,8923.24,Salesperson_2
+15,2025-11-07,Customer_55,West,Maharashtra,Mumbai,Furniture,Bookshelf,9,91700.1,10,16681.94,Salesperson_4
+16,2025-04-26,Customer_9,South,Telangana,Hyderabad,Office,Pen,8,234049.2,15,18782.69,Salesperson_6
+17,2025-01-17,Customer_43,North,Haryana,Gurugram,Furniture,Chair,2,93778.0,0,10056.33,Salesperson_2
+18,2025-08-31,Customer_53,South,Tamil Nadu,Coimbatore,Furniture,Desk,10,325227.0,15,36018.67,Salesperson_4
+19,2025-11-27,Customer_13,North,Delhi,Delhi,Clothing,Shoes,7,217742.0,0,47542.04,Salesperson_1
+20,2025-08-05,Customer_24,West,Rajasthan,Jaipur,Electronics,Smartphone,4,41488.0,20,6727.42,Salesperson_5
+21,2025-02-17,Customer_97,West,Maharashtra,Mumbai,Office,Printer,1,34590.4,20,8959.15,Salesperson_14
+22,2025-01-02,Customer_50,South,Karnataka,Mysuru,Office,Monitor,4,107128.0,0,9765.71,Salesperson_5
+23,2025-10-24,Customer_95,West,Gujarat,Surat,Office,Notebook,4,75791.0,5,22144.41,Salesperson_9
+24,2025-09-29,Customer_21,North,Haryana,Faridabad,Electronics,Laptop,10,253968.0,20,71072.13,Salesperson_1
+25,2025-11-01,Customer_6,North,Delhi,Delhi,Electronics,Smartphone,7,46793.6,20,5220.01,Salesperson_10
+26,2025-12-10,Customer_83,North,Punjab,Ludhiana,Clothing,Jeans,6,87166.8,10,12983.19,Salesperson_5
+27,2025-04-20,Customer_65,West,Gujarat,Ahmedabad,Electronics,Headphones,10,373960.0,0,25547.14,Salesperson_5
+28,2025-12-27,Customer_39,South,Tamil Nadu,Chennai,Furniture,Sofa,5,46061.5,15,11903.96,Salesperson_10
+29,2025-03-21,Customer_35,North,Haryana,Faridabad,Electronics,Smartphone,5,40320.0,0,9499.56,Salesperson_5
+30,2025-01-27,Customer_12,South,Telangana,Hyderabad,Furniture,Sofa,9,263379.6,10,72780.77,Salesperson_11
+31,2025-08-15,Customer_71,West,Gujarat,Ahmedabad,Electronics,Tablet,3,114083.1,10,10312.6,Salesperson_12
+32,2025-10-26,Customer_71,West,Rajasthan,Jaipur,Electronics,Laptop,3,108765.0,0,28131.93,Salesperson_3
+33,2025-12-08,Customer_14,West,Maharashtra,Mumbai,Clothing,Jacket,1,22751.55,5,5017.1,Salesperson_6
+34,2025-06-20,Customer_53,West,Rajasthan,Jaipur,Furniture,Desk,3,82560.0,0,7830.0,Salesperson_13
+35,2025-08-24,Customer_45,South,Tamil Nadu,Chennai,Electronics,Headphones,1,29779.65,5,2974.78,Salesperson_5
+36,2025-05-23,Customer_45,South,Karnataka,Bengaluru,Furniture,Bookshelf,6,112548.0,0,32832.76,Salesperson_11
+37,2025-05-16,Customer_5,West,Rajasthan,Jaipur,Electronics,Laptop,5,48808.0,20,14185.24,Salesperson_2
+38,2025-12-29,Customer_56,West,Gujarat,Surat,Office,Printer,7,254608.55,5,28944.06,Salesperson_1
+39,2025-06-03,Customer_65,South,Tamil Nadu,Coimbatore,Electronics,Tablet,10,210720.0,0,48452.65,Salesperson_5
+40,2025-03-31,Customer_79,West,Gujarat,Surat,Clothing,Jeans,4,95383.6,15,20920.44,Salesperson_10
+41,2025-06-14,Customer_60,East,Odisha,Bhubaneswar,Clothing,Jacket,4,91753.6,20,18503.53,Salesperson_8
+42,2025-11-14,Customer_43,West,Rajasthan,Jaipur,Office,Notebook,2,30556.8,20,6599.15,Salesperson_2
+43,2025-09-01,Customer_79,South,Telangana,Hyderabad,Furniture,Desk,3,6300.0,0,700.63,Salesperson_14
+44,2025-12-19,Customer_1,North,Punjab,Ludhiana,Furniture,Bookshelf,8,202851.6,5,17626.35,Salesperson_15
+45,2025-03-04,Customer_59,North,Punjab,Amritsar,Furniture,Bookshelf,1,35178.5,5,9827.73,Salesperson_3
+46,2025-09-01,Customer_58,West,Rajasthan,Jaipur,Office,Monitor,9,254131.65,5,59953.18,Salesperson_5
+47,2025-05-01,Customer_35,South,Telangana,Hyderabad,Office,Notebook,5,146635.0,0,33489.41,Salesperson_6
+48,2025-02-02,Customer_54,East,Bihar,Patna,Furniture,Desk,4,97287.6,5,22045.84,Salesperson_7
+49,2025-10-27,Customer_90,East,Bihar,Patna,Office,Printer,4,95315.6,15,26327.09,Salesperson_1
+50,2025-10-07,Customer_78,West,Gujarat,Ahmedabad,Clothing,Jacket,7,156576.0,20,37089.55,Salesperson_15
+51,2025-12-14,Customer_52,South,Tamil Nadu,Chennai,Clothing,Shoes,8,16333.6,15,2189.23,Salesperson_12
+52,2025-08-08,Customer_18,South,Tamil Nadu,Chennai,Electronics,Headphones,10,374870.0,0,26610.85,Salesperson_14
+53,2025-07-14,Customer_36,West,Maharashtra,Mumbai,Clothing,Shoes,6,73292.1,15,9653.41,Salesperson_13
+54,2025-02-05,Customer_100,West,Gujarat,Ahmedabad,Office,Printer,9,31695.3,10,3361.46,Salesperson_11
+55,2025-12-09,Customer_15,North,Delhi,Delhi,Furniture,Chair,10,99617.0,5,8124.29,Salesperson_10
+56,2025-03-25,Customer_40,South,Tamil Nadu,Coimbatore,Clothing,Jeans,10,402960.0,0,98502.75,Salesperson_2
+57,2025-06-04,Customer_88,North,Punjab,Ludhiana,Office,Notebook,2,74675.7,5,5636.17,Salesperson_10
+58,2025-01-07,Customer_54,North,Haryana,Gurugram,Clothing,Shoes,6,24091.2,20,5104.58,Salesperson_14
+59,2025-11-30,Customer_35,West,Maharashtra,Pune,Clothing,Shoes,3,82764.0,5,19321.16,Salesperson_10
+60,2025-05-05,Customer_97,West,Gujarat,Surat,Clothing,Jacket,4,22244.4,10,6015.06,Salesperson_8
+61,2025-05-13,Customer_44,West,Gujarat,Ahmedabad,Office,Pen,3,92488.2,5,12828.69,Salesperson_5
+62,2025-05-04,Customer_89,East,Bihar,Patna,Furniture,Chair,4,162146.0,15,27912.54,Salesperson_8
+63,2025-10-25,Customer_48,West,Gujarat,Ahmedabad,Electronics,Tablet,4,102607.6,5,12985.15,Salesperson_8
+64,2025-04-09,Customer_41,East,Odisha,Bhubaneswar,Clothing,Shoes,5,92673.0,10,9974.81,Salesperson_2
+65,2025-02-21,Customer_25,South,Karnataka,Bengaluru,Office,Pen,10,279056.0,20,33695.92,Salesperson_5
+66,2025-01-28,Customer_71,South,Tamil Nadu,Chennai,Clothing,Shirt,9,71239.5,10,4372.6,Salesperson_5
+67,2025-06-24,Customer_24,South,Telangana,Hyderabad,Electronics,Laptop,10,162639.0,15,27596.35,Salesperson_1
+68,2025-01-28,Customer_20,East,Odisha,Bhubaneswar,Electronics,Headphones,8,34272.0,20,7106.69,Salesperson_3
+69,2025-09-25,Customer_49,East,West Bengal,Kolkata,Electronics,Headphones,10,316536.0,20,33686.33,Salesperson_8
+70,2025-04-17,Customer_81,West,Gujarat,Surat,Clothing,Shirt,10,490020.0,0,140585.54,Salesperson_4
+71,2025-07-29,Customer_58,East,Bihar,Patna,Furniture,Desk,3,110025.0,0,9806.88,Salesperson_12
+72,2025-04-30,Customer_34,West,Gujarat,Ahmedabad,Furniture,Sofa,5,197922.5,15,13418.14,Salesperson_13
+73,2025-06-07,Customer_77,South,Tamil Nadu,Chennai,Furniture,Desk,5,49105.0,0,3187.38,Salesperson_12
+74,2025-08-13,Customer_11,East,Odisha,Bhubaneswar,Office,Pen,7,102709.6,20,19000.8,Salesperson_10
+75,2025-01-11,Customer_98,North,Punjab,Ludhiana,Clothing,Shirt,2,24803.2,20,4880.79,Salesperson_11
+76,2025-04-03,Customer_75,East,Bihar,Patna,Furniture,Bookshelf,9,330457.05,15,92203.53,Salesperson_7
+77,2025-06-18,Customer_53,West,Maharashtra,Pune,Clothing,Shoes,6,129240.0,0,34175.36,Salesperson_12
+78,2025-07-26,Customer_66,West,Gujarat,Surat,Electronics,Headphones,2,38001.6,10,4971.31,Salesperson_14
+79,2025-09-13,Customer_81,North,Haryana,Faridabad,Office,Printer,4,124113.6,10,25525.01,Salesperson_8
+80,2025-11-19,Customer_78,North,Delhi,Delhi,Furniture,Sofa,8,314568.0,15,25277.59,Salesperson_13
+81,2025-02-28,Customer_60,South,Telangana,Hyderabad,Clothing,Shirt,9,245142.0,0,26027.99,Salesperson_2
+82,2025-03-16,Customer_50,South,Tamil Nadu,Coimbatore,Clothing,Shoes,8,238997.2,5,39242.53,Salesperson_4
+83,2025-06-02,Customer_76,South,Karnataka,Mysuru,Office,Pen,9,162081.0,0,19564.76,Salesperson_10
+84,2025-06-14,Customer_25,West,Maharashtra,Pune,Office,Pen,6,176016.0,20,25399.55,Salesperson_12
+85,2025-07-15,Customer_50,South,Telangana,Hyderabad,Furniture,Bookshelf,1,18149.2,15,4107.29,Salesperson_11
+86,2025-08-22,Customer_2,South,Tamil Nadu,Chennai,Furniture,Sofa,2,58710.0,0,10655.15,Salesperson_12
+87,2025-11-29,Customer_11,South,Tamil Nadu,Chennai,Electronics,Headphones,5,90748.0,20,20252.79,Salesperson_14
+88,2025-11-20,Customer_88,East,Bihar,Patna,Clothing,Shoes,9,20534.4,20,1377.96,Salesperson_15
+89,2025-01-15,Customer_6,East,West Bengal,Kolkata,Office,Printer,2,56194.4,5,12559.46,Salesperson_6
+90,2025-12-16,Customer_24,North,Punjab,Ludhiana,Clothing,Shoes,3,39607.2,20,6060.41,Salesperson_3
+91,2025-05-11,Customer_59,South,Karnataka,Mysuru,Furniture,Bookshelf,10,93850.5,5,15512.31,Salesperson_5
+92,2025-08-06,Customer_89,North,Punjab,Ludhiana,Furniture,Chair,8,148134.4,20,18485.48,Salesperson_5
+93,2025-10-22,Customer_38,West,Gujarat,Ahmedabad,Office,Monitor,2,27276.5,15,5263.84,Salesperson_12
+94,2025-09-12,Customer_37,East,West Bengal,Kolkata,Clothing,Shirt,10,454440.0,0,126177.19,Salesperson_13
+95,2025-11-18,Customer_83,South,Telangana,Hyderabad,Furniture,Desk,10,160787.5,5,33292.99,Salesperson_1
+96,2025-03-31,Customer_26,East,Odisha,Bhubaneswar,Clothing,Jeans,2,35712.0,10,8459.11,Salesperson_3
+97,2025-08-28,Customer_10,East,Bihar,Patna,Furniture,Sofa,8,142862.4,10,35866.77,Salesperson_3
+98,2025-08-21,Customer_48,South,Telangana,Hyderabad,Clothing,Shirt,7,8895.6,10,1638.06,Salesperson_11
+99,2025-10-15,Customer_42,East,Bihar,Patna,Clothing,Shirt,4,125592.0,0,25732.13,Salesperson_15
+100,2025-01-20,Customer_39,South,Telangana,Hyderabad,Office,Pen,7,54170.9,5,3322.66,Salesperson_8
+101,2025-03-21,Customer_54,North,Delhi,Delhi,Furniture,Bookshelf,8,158809.6,20,24580.82,Salesperson_11
+102,2025-05-01,Customer_47,North,Punjab,Ludhiana,Clothing,Shirt,6,75163.8,15,12114.45,Salesperson_2
+103,2025-08-21,Customer_12,East,Bihar,Patna,Electronics,Headphones,5,64695.0,0,18583.81,Salesperson_11
+104,2025-10-11,Customer_27,South,Telangana,Hyderabad,Electronics,Tablet,4,28006.4,20,2837.09,Salesperson_10
+105,2025-03-31,Customer_15,South,Karnataka,Mysuru,Furniture,Chair,5,47414.5,5,8774.24,Salesperson_11
+106,2025-01-27,Customer_17,North,Delhi,Delhi,Clothing,Jeans,10,217180.0,0,20319.7,Salesperson_12
+107,2025-08-20,Customer_65,West,Rajasthan,Jaipur,Electronics,Headphones,8,155046.4,20,30763.76,Salesperson_4
+108,2025-02-25,Customer_63,North,Haryana,Faridabad,Office,Printer,1,27106.5,15,4244.02,Salesperson_12
+109,2025-10-27,Customer_71,West,Maharashtra,Mumbai,Clothing,Jeans,2,15786.0,10,3253.17,Salesperson_12
+110,2025-11-30,Customer_99,East,Odisha,Bhubaneswar,Office,Monitor,2,92982.0,0,24472.69,Salesperson_9
+111,2025-02-18,Customer_41,South,Tamil Nadu,Coimbatore,Furniture,Bookshelf,6,154122.0,15,23734.39,Salesperson_7
+112,2025-02-17,Customer_56,East,Bihar,Patna,Clothing,Jeans,8,39192.0,0,10109.3,Salesperson_2
+113,2025-01-27,Customer_37,East,West Bengal,Kolkata,Clothing,Shirt,7,140854.35,15,37611.36,Salesperson_10
+114,2025-10-12,Customer_48,East,Odisha,Bhubaneswar,Furniture,Desk,8,121568.0,0,16719.06,Salesperson_2
+115,2025-05-20,Customer_90,East,Bihar,Patna,Office,Printer,10,392499.0,10,22465.97,Salesperson_13
+116,2025-11-21,Customer_4,East,Odisha,Bhubaneswar,Electronics,Smartphone,3,95915.7,15,6464.37,Salesperson_2
+117,2025-10-18,Customer_77,South,Tamil Nadu,Coimbatore,Office,Pen,3,66827.7,10,15397.03,Salesperson_2
+118,2025-08-15,Customer_54,North,Delhi,Delhi,Electronics,Laptop,5,125540.75,15,21519.62,Salesperson_5
+119,2025-12-08,Customer_40,South,Telangana,Hyderabad,Clothing,Shoes,2,30499.2,20,5235.44,Salesperson_1
+120,2025-05-29,Customer_42,South,Tamil Nadu,Chennai,Electronics,Smartphone,5,68129.25,5,16421.89,Salesperson_2
+121,2025-12-09,Customer_46,North,Punjab,Ludhiana,Furniture,Desk,7,235429.95,5,41215.68,Salesperson_2
+122,2025-10-21,Customer_52,West,Rajasthan,Jaipur,Office,Printer,8,40334.4,10,7822.45,Salesperson_12
+123,2025-12-20,Customer_47,West,Gujarat,Ahmedabad,Office,Printer,6,56462.4,20,9317.66,Salesperson_2
+124,2025-06-23,Customer_29,West,Maharashtra,Mumbai,Office,Monitor,9,43253.1,15,11575.87,Salesperson_6
+125,2025-03-16,Customer_33,South,Karnataka,Bengaluru,Furniture,Sofa,6,274563.3,5,29945.85,Salesperson_4
+126,2025-08-18,Customer_88,South,Telangana,Hyderabad,Electronics,Smartphone,8,197792.0,20,47464.01,Salesperson_15
+127,2025-05-21,Customer_76,East,Bihar,Patna,Furniture,Bookshelf,2,53092.7,15,11035.12,Salesperson_1
+128,2025-05-27,Customer_10,East,Bihar,Patna,Clothing,Shoes,8,23712.0,0,3371.48,Salesperson_11
+129,2025-09-01,Customer_65,North,Haryana,Faridabad,Office,Printer,8,288526.4,5,37618.56,Salesperson_3
+130,2025-12-29,Customer_57,North,Punjab,Amritsar,Clothing,Shirt,9,366316.2,5,21900.41,Salesperson_8
+131,2025-11-20,Customer_83,South,Tamil Nadu,Coimbatore,Clothing,Shoes,7,126980.0,20,8011.34,Salesperson_6
+132,2025-06-20,Customer_11,North,Punjab,Amritsar,Office,Pen,5,191720.0,20,51442.29,Salesperson_10
+133,2025-07-12,Customer_83,South,Tamil Nadu,Coimbatore,Office,Notebook,10,469540.0,0,59817.27,Salesperson_13
+134,2025-04-20,Customer_44,East,West Bengal,Kolkata,Office,Pen,1,21836.7,10,2075.92,Salesperson_13
+135,2025-10-04,Customer_95,West,Maharashtra,Mumbai,Furniture,Desk,2,39770.0,0,7036.2,Salesperson_15
+136,2025-11-16,Customer_22,North,Haryana,Faridabad,Furniture,Bookshelf,3,31729.05,5,8180.9,Salesperson_12
+137,2025-08-18,Customer_30,West,Maharashtra,Pune,Clothing,Jeans,8,291708.0,10,69455.03,Salesperson_9
+138,2025-07-15,Customer_65,South,Tamil Nadu,Coimbatore,Furniture,Sofa,10,249679.0,15,60512.11,Salesperson_9
+139,2025-10-11,Customer_14,West,Maharashtra,Mumbai,Furniture,Sofa,1,36142.0,15,9705.18,Salesperson_12
+140,2025-02-16,Customer_29,North,Punjab,Amritsar,Furniture,Sofa,8,259486.8,5,66885.75,Salesperson_14
+141,2025-02-11,Customer_48,West,Gujarat,Ahmedabad,Office,Printer,7,210413.7,10,22923.42,Salesperson_4
+142,2025-08-30,Customer_90,North,Punjab,Amritsar,Clothing,Jeans,3,8127.0,10,2270.27,Salesperson_14
+143,2025-03-18,Customer_71,South,Telangana,Hyderabad,Office,Printer,2,3141.0,10,326.39,Salesperson_12
+144,2025-11-15,Customer_59,West,Maharashtra,Pune,Furniture,Sofa,2,6895.1,5,1068.44,Salesperson_2
+145,2025-05-04,Customer_74,North,Punjab,Amritsar,Furniture,Desk,5,143150.0,0,29160.0,Salesperson_7
+146,2025-09-17,Customer_71,South,Telangana,Hyderabad,Clothing,Shirt,9,260323.2,20,64196.5,Salesperson_1
+147,2025-02-04,Customer_45,West,Gujarat,Ahmedabad,Office,Pen,5,247380.0,0,34453.47,Salesperson_4
+148,2025-03-31,Customer_100,North,Haryana,Faridabad,Furniture,Chair,6,195928.2,10,49643.74,Salesperson_11
+149,2025-04-14,Customer_6,West,Rajasthan,Jaipur,Furniture,Desk,2,80624.2,15,4776.66,Salesperson_13
+150,2025-11-28,Customer_25,South,Karnataka,Mysuru,Clothing,Shoes,9,255344.4,10,15104.95,Salesperson_5
+151,2025-07-17,Customer_44,East,West Bengal,Kolkata,Clothing,Shirt,6,148593.6,15,35042.37,Salesperson_3
+152,2025-11-05,Customer_24,West,Rajasthan,Jaipur,Clothing,Jacket,2,81855.0,15,5707.89,Salesperson_9
+153,2025-08-07,Customer_22,East,Odisha,Bhubaneswar,Electronics,Tablet,5,87490.5,15,17555.44,Salesperson_12
+154,2025-01-30,Customer_10,West,Gujarat,Surat,Electronics,Tablet,10,261036.0,10,54782.93,Salesperson_11
+155,2025-02-04,Customer_31,West,Gujarat,Ahmedabad,Electronics,Smartphone,10,381981.5,15,22422.22,Salesperson_13
+156,2025-02-09,Customer_74,East,Odisha,Bhubaneswar,Electronics,Smartphone,8,178639.2,10,28758.2,Salesperson_3
+157,2025-07-18,Customer_72,East,Odisha,Bhubaneswar,Clothing,Jeans,2,4176.2,5,729.84,Salesperson_2
+158,2025-02-07,Customer_58,East,Odisha,Bhubaneswar,Furniture,Sofa,8,108944.0,0,9143.9,Salesperson_3
+159,2025-03-22,Customer_92,West,Maharashtra,Pune,Clothing,Shirt,9,291851.1,10,79626.59,Salesperson_12
+160,2025-10-11,Customer_74,South,Tamil Nadu,Chennai,Electronics,Smartphone,3,40835.7,15,2310.12,Salesperson_6
+161,2025-07-29,Customer_74,West,Rajasthan,Jaipur,Electronics,Laptop,5,113020.25,15,20504.58,Salesperson_2
+162,2025-10-10,Customer_82,South,Tamil Nadu,Chennai,Office,Monitor,9,197316.9,5,53174.94,Salesperson_10
+163,2025-06-15,Customer_91,South,Karnataka,Mysuru,Electronics,Laptop,9,85276.8,10,7774.2,Salesperson_4
+164,2025-11-17,Customer_39,East,Bihar,Patna,Electronics,Tablet,4,134780.8,20,15986.72,Salesperson_10
+165,2025-10-16,Customer_6,North,Haryana,Gurugram,Furniture,Desk,10,381816.0,20,51317.94,Salesperson_14
+166,2025-09-12,Customer_81,North,Delhi,Delhi,Clothing,Jeans,10,222408.0,20,46649.59,Salesperson_9
+167,2025-01-31,Customer_21,East,Bihar,Patna,Office,Notebook,7,118952.4,15,8117.7,Salesperson_8
+168,2025-06-13,Customer_94,West,Gujarat,Surat,Furniture,Sofa,10,89235.0,10,23680.41,Salesperson_14
+169,2025-08-19,Customer_32,East,Odisha,Bhubaneswar,Clothing,Shirt,6,83344.2,15,6720.08,Salesperson_3
+170,2025-06-10,Customer_25,North,Delhi,Delhi,Office,Monitor,4,39477.6,10,11189.45,Salesperson_13
+171,2025-09-16,Customer_59,South,Tamil Nadu,Coimbatore,Office,Pen,8,16144.0,0,4622.16,Salesperson_4
+172,2025-12-01,Customer_87,South,Telangana,Hyderabad,Electronics,Laptop,5,131732.0,20,35644.69,Salesperson_8
+173,2025-07-07,Customer_6,East,Bihar,Patna,Electronics,Headphones,3,48146.4,10,11601.56,Salesperson_7
+174,2025-10-09,Customer_36,North,Haryana,Gurugram,Clothing,Jacket,2,41310.4,20,6716.6,Salesperson_14
+175,2025-04-12,Customer_78,North,Delhi,Delhi,Office,Pen,6,200113.2,10,47775.28,Salesperson_9
+176,2025-09-23,Customer_59,West,Rajasthan,Jaipur,Electronics,Laptop,3,127615.5,10,32030.4,Salesperson_3
+177,2025-09-17,Customer_66,South,Tamil Nadu,Coimbatore,Furniture,Bookshelf,10,440568.0,10,87422.42,Salesperson_9
+178,2025-10-26,Customer_40,West,Rajasthan,Jaipur,Office,Printer,6,133248.0,0,39304.76,Salesperson_13
+179,2025-11-19,Customer_93,North,Haryana,Faridabad,Clothing,Jeans,1,32929.85,15,3050.23,Salesperson_10
+180,2025-03-19,Customer_53,West,Maharashtra,Mumbai,Electronics,Laptop,4,5919.4,15,760.19,Salesperson_12
+181,2025-12-06,Customer_62,South,Tamil Nadu,Coimbatore,Electronics,Smartphone,9,101433.6,20,13314.42,Salesperson_9
+182,2025-04-09,Customer_32,West,Gujarat,Ahmedabad,Office,Pen,9,192115.8,10,38907.13,Salesperson_5
+183,2025-05-21,Customer_37,East,West Bengal,Kolkata,Clothing,Jeans,8,144683.6,15,19850.7,Salesperson_2
+184,2025-08-15,Customer_84,West,Gujarat,Surat,Furniture,Sofa,1,19350.0,0,2643.03,Salesperson_5
+185,2025-05-03,Customer_32,West,Maharashtra,Mumbai,Clothing,Jacket,3,18379.2,20,4323.21,Salesperson_1
+186,2025-03-12,Customer_1,South,Telangana,Hyderabad,Electronics,Laptop,7,131768.7,15,9900.6,Salesperson_9
+187,2025-02-15,Customer_84,South,Tamil Nadu,Coimbatore,Office,Notebook,5,96966.0,10,20505.83,Salesperson_10
+188,2025-04-06,Customer_96,South,Telangana,Hyderabad,Furniture,Bookshelf,3,7346.55,15,1814.53,Salesperson_14
+189,2025-10-06,Customer_68,East,West Bengal,Kolkata,Clothing,Shirt,6,97659.9,15,29031.83,Salesperson_8
+190,2025-11-28,Customer_33,South,Telangana,Hyderabad,Clothing,Jeans,2,42124.9,5,9805.83,Salesperson_12
+191,2025-09-21,Customer_42,South,Karnataka,Mysuru,Clothing,Jeans,3,103374.45,15,26541.13,Salesperson_2
+192,2025-07-16,Customer_31,West,Rajasthan,Jaipur,Furniture,Desk,8,164973.2,5,8530.36,Salesperson_8
+193,2025-03-02,Customer_60,East,Odisha,Bhubaneswar,Electronics,Tablet,6,261635.7,5,17145.27,Salesperson_5
+194,2025-03-10,Customer_62,South,Tamil Nadu,Coimbatore,Electronics,Tablet,6,232446.0,5,24356.19,Salesperson_3
+195,2025-12-15,Customer_97,West,Rajasthan,Jaipur,Office,Monitor,9,376388.1,5,90508.13,Salesperson_10
+196,2025-09-16,Customer_26,North,Haryana,Faridabad,Clothing,Shirt,10,78530.0,0,20197.41,Salesperson_10
+197,2025-09-19,Customer_58,South,Karnataka,Mysuru,Office,Printer,4,151945.6,20,26166.09,Salesperson_13
+198,2025-06-07,Customer_93,North,Punjab,Amritsar,Office,Monitor,10,34264.0,20,5673.93,Salesperson_1
+199,2025-10-05,Customer_8,West,Gujarat,Ahmedabad,Furniture,Chair,1,25440.3,10,5726.52,Salesperson_15
+200,2025-07-15,Customer_58,North,Punjab,Amritsar,Clothing,Shoes,3,23906.25,15,3433.3,Salesperson_14
+201,2025-03-07,Customer_94,West,Gujarat,Ahmedabad,Furniture,Sofa,2,19513.6,20,2893.18,Salesperson_4
+202,2025-06-27,Customer_20,North,Delhi,Delhi,Office,Monitor,9,216793.8,5,24254.46,Salesperson_5
+203,2025-02-21,Customer_77,South,Telangana,Hyderabad,Electronics,Headphones,10,14487.5,5,1470.78,Salesperson_1
+204,2025-01-29,Customer_18,West,Rajasthan,Jaipur,Furniture,Chair,7,194625.55,5,35994.04,Salesperson_9
+205,2025-06-03,Customer_36,East,West Bengal,Kolkata,Clothing,Jeans,5,39552.0,20,4163.27,Salesperson_1
+206,2025-06-13,Customer_90,South,Telangana,Hyderabad,Office,Printer,6,217566.0,15,53619.39,Salesperson_7
+207,2025-06-03,Customer_91,West,Maharashtra,Pune,Office,Notebook,9,269598.6,5,70725.21,Salesperson_3
+208,2025-11-28,Customer_11,West,Maharashtra,Pune,Office,Notebook,7,103414.5,10,10427.72,Salesperson_15
+209,2025-02-07,Customer_25,West,Gujarat,Ahmedabad,Furniture,Chair,5,100872.0,20,20248.09,Salesperson_13
+210,2025-03-02,Customer_96,South,Tamil Nadu,Chennai,Clothing,Jacket,1,13661.95,5,3969.06,Salesperson_13
+211,2025-10-01,Customer_84,West,Maharashtra,Mumbai,Office,Notebook,9,174773.7,10,25371.1,Salesperson_6
+212,2025-06-13,Customer_27,East,Odisha,Bhubaneswar,Office,Monitor,2,81334.8,15,19553.47,Salesperson_6
+213,2025-10-24,Customer_93,East,Odisha,Bhubaneswar,Furniture,Desk,1,14072.0,20,3992.08,Salesperson_7
+214,2025-12-02,Customer_88,East,West Bengal,Kolkata,Clothing,Jeans,7,251642.65,5,43993.52,Salesperson_6
+215,2025-09-08,Customer_24,East,Odisha,Bhubaneswar,Office,Notebook,6,66074.4,5,15202.29,Salesperson_15
+216,2025-04-29,Customer_9,North,Haryana,Gurugram,Electronics,Laptop,1,26149.7,5,6815.56,Salesperson_12
+217,2025-12-04,Customer_63,South,Karnataka,Bengaluru,Office,Pen,1,32792.0,20,9122.34,Salesperson_1
+218,2025-05-27,Customer_3,North,Haryana,Faridabad,Electronics,Laptop,9,387414.9,10,71258.98,Salesperson_9
+219,2025-07-01,Customer_35,West,Maharashtra,Mumbai,Electronics,Smartphone,4,41849.6,20,7600.47,Salesperson_13
+220,2025-02-11,Customer_84,West,Maharashtra,Pune,Office,Monitor,10,156161.0,5,19519.13,Salesperson_14
+221,2025-12-26,Customer_22,North,Delhi,Delhi,Office,Monitor,9,285255.0,0,59671.64,Salesperson_2
+222,2025-01-24,Customer_10,West,Gujarat,Surat,Electronics,Laptop,4,45936.0,20,7757.45,Salesperson_11
+223,2025-12-31,Customer_51,East,Bihar,Patna,Furniture,Sofa,1,11260.8,20,968.97,Salesperson_15
+224,2025-03-13,Customer_89,North,Punjab,Amritsar,Furniture,Bookshelf,9,170136.0,15,40645.88,Salesperson_12
+225,2025-11-11,Customer_77,North,Haryana,Faridabad,Electronics,Laptop,7,109991.0,0,14865.08,Salesperson_7
+226,2025-08-10,Customer_24,East,West Bengal,Kolkata,Office,Monitor,4,76217.6,20,21743.79,Salesperson_11
+227,2025-11-21,Customer_20,West,Maharashtra,Pune,Furniture,Chair,2,34315.9,5,4975.81,Salesperson_12
+228,2025-05-19,Customer_14,West,Gujarat,Surat,Electronics,Laptop,1,17596.7,15,2463.18,Salesperson_3
+229,2025-02-17,Customer_77,North,Delhi,Delhi,Office,Monitor,2,4442.0,0,615.12,Salesperson_10
+230,2025-05-05,Customer_74,East,Odisha,Bhubaneswar,Clothing,Shoes,7,33880.0,20,9361.11,Salesperson_9
+231,2025-02-02,Customer_22,South,Telangana,Hyderabad,Furniture,Desk,5,91053.0,10,15777.75,Salesperson_7
+232,2025-09-11,Customer_77,East,Odisha,Bhubaneswar,Office,Printer,6,96871.5,5,22302.23,Salesperson_10
+233,2025-07-14,Customer_43,South,Tamil Nadu,Chennai,Furniture,Sofa,1,23788.8,10,6194.68,Salesperson_8
+234,2025-04-01,Customer_51,East,Odisha,Bhubaneswar,Clothing,Jacket,10,437627.0,5,74288.25,Salesperson_6
+235,2025-10-16,Customer_26,East,Bihar,Patna,Furniture,Sofa,7,112270.55,15,15858.65,Salesperson_10
+236,2025-07-29,Customer_87,South,Telangana,Hyderabad,Office,Notebook,8,156736.0,0,39927.15,Salesperson_8
+237,2025-02-07,Customer_58,South,Telangana,Hyderabad,Furniture,Sofa,3,120801.15,15,29870.4,Salesperson_10
+238,2025-02-13,Customer_14,West,Rajasthan,Jaipur,Office,Printer,6,223113.6,20,44278.01,Salesperson_13
+239,2025-06-19,Customer_56,South,Telangana,Hyderabad,Furniture,Chair,10,363562.0,15,106052.05,Salesperson_2
+240,2025-12-14,Customer_76,North,Delhi,Delhi,Furniture,Desk,8,170122.4,15,28200.48,Salesperson_12
+241,2025-03-14,Customer_45,South,Tamil Nadu,Chennai,Office,Printer,5,138805.0,0,10968.0,Salesperson_5
+242,2025-08-20,Customer_41,East,Odisha,Bhubaneswar,Office,Pen,8,46899.6,15,10810.29,Salesperson_2
+243,2025-05-05,Customer_67,East,West Bengal,Kolkata,Electronics,Tablet,2,85266.3,5,24086.08,Salesperson_3
+244,2025-12-03,Customer_56,South,Tamil Nadu,Coimbatore,Office,Notebook,7,277777.15,5,26832.36,Salesperson_7
+245,2025-12-27,Customer_9,North,Haryana,Gurugram,Office,Monitor,7,5260.15,5,533.62,Salesperson_10
+246,2025-09-08,Customer_68,North,Haryana,Gurugram,Clothing,Jacket,4,121944.0,0,14095.31,Salesperson_11
+247,2025-12-11,Customer_91,East,Bihar,Patna,Office,Printer,6,120191.7,15,24560.05,Salesperson_13
+248,2025-07-11,Customer_89,East,Bihar,Patna,Furniture,Sofa,2,29043.0,10,2301.29,Salesperson_3
+249,2025-11-27,Customer_23,West,Gujarat,Ahmedabad,Office,Monitor,3,77745.6,20,17365.12,Salesperson_9
+250,2025-07-03,Customer_2,South,Tamil Nadu,Coimbatore,Furniture,Desk,6,144268.8,20,9147.05,Salesperson_8
+251,2025-02-12,Customer_73,South,Karnataka,Mysuru,Office,Monitor,8,188618.4,15,32475.35,Salesperson_1
+252,2025-10-17,Customer_96,South,Tamil Nadu,Chennai,Clothing,Jeans,9,166023.9,5,40706.58,Salesperson_13
+253,2025-01-22,Customer_98,West,Rajasthan,Jaipur,Electronics,Tablet,9,176702.4,20,45174.45,Salesperson_12
+254,2025-06-28,Customer_12,West,Rajasthan,Jaipur,Office,Printer,4,80040.0,0,13001.14,Salesperson_8
+255,2025-04-16,Customer_8,North,Delhi,Delhi,Clothing,Shoes,3,116508.0,5,28685.71,Salesperson_10
+256,2025-09-21,Customer_87,East,Bihar,Patna,Furniture,Sofa,5,77844.0,20,9094.96,Salesperson_14
+257,2025-12-31,Customer_42,North,Delhi,Delhi,Electronics,Tablet,3,132433.8,5,14888.12,Salesperson_14
+258,2025-07-12,Customer_58,South,Telangana,Hyderabad,Office,Notebook,10,377505.0,10,78125.87,Salesperson_2
+259,2025-02-17,Customer_94,North,Punjab,Ludhiana,Clothing,Shoes,8,140473.6,20,7110.53,Salesperson_8
+260,2025-05-26,Customer_44,East,West Bengal,Kolkata,Furniture,Bookshelf,4,118515.6,10,15491.92,Salesperson_9
+261,2025-03-22,Customer_57,South,Telangana,Hyderabad,Clothing,Shirt,1,5971.25,15,322.87,Salesperson_8
+262,2025-05-09,Customer_11,North,Punjab,Amritsar,Furniture,Sofa,3,55374.0,0,11830.49,Salesperson_6
+263,2025-01-01,Customer_28,South,Karnataka,Mysuru,Clothing,Jeans,7,304199.0,0,68726.01,Salesperson_8
+264,2025-08-05,Customer_89,North,Delhi,Delhi,Office,Printer,1,41477.4,10,10546.76,Salesperson_3
+265,2025-06-03,Customer_18,West,Maharashtra,Mumbai,Office,Printer,2,13073.4,10,1854.99,Salesperson_7
+266,2025-04-20,Customer_81,South,Telangana,Hyderabad,Electronics,Laptop,10,409440.5,5,65520.66,Salesperson_12
+267,2025-07-16,Customer_45,South,Tamil Nadu,Coimbatore,Furniture,Chair,2,19350.0,0,3819.56,Salesperson_7
+268,2025-11-08,Customer_37,East,West Bengal,Kolkata,Clothing,Shirt,4,117654.4,20,23531.11,Salesperson_13
+269,2025-05-03,Customer_64,North,Haryana,Faridabad,Furniture,Desk,7,139076.0,0,34205.8,Salesperson_7
+270,2025-10-19,Customer_54,North,Delhi,Delhi,Electronics,Laptop,6,121068.0,5,17761.83,Salesperson_6
+271,2025-01-31,Customer_51,South,Tamil Nadu,Chennai,Electronics,Laptop,1,16797.9,5,1007.15,Salesperson_9
+272,2025-03-20,Customer_36,East,Bihar,Patna,Office,Monitor,2,67964.8,20,12533.65,Salesperson_2
+273,2025-08-12,Customer_94,East,West Bengal,Kolkata,Furniture,Sofa,7,272524.0,0,34758.36,Salesperson_14
+274,2025-06-08,Customer_86,South,Karnataka,Bengaluru,Electronics,Headphones,2,48339.2,20,9774.58,Salesperson_12
+275,2025-05-13,Customer_22,South,Karnataka,Bengaluru,Furniture,Chair,3,89186.4,10,16120.56,Salesperson_6
+276,2025-05-15,Customer_92,South,Telangana,Hyderabad,Electronics,Laptop,6,154634.4,10,27983.19,Salesperson_10
+277,2025-05-11,Customer_99,North,Punjab,Ludhiana,Clothing,Shirt,8,286147.6,5,40610.62,Salesperson_2
+278,2025-03-18,Customer_23,North,Delhi,Delhi,Electronics,Laptop,4,11944.2,15,1684.06,Salesperson_15
+279,2025-02-09,Customer_74,North,Haryana,Faridabad,Furniture,Sofa,4,100004.4,10,11781.97,Salesperson_6
+280,2025-08-27,Customer_37,North,Haryana,Gurugram,Furniture,Desk,9,26843.85,15,1804.76,Salesperson_13
+281,2025-06-05,Customer_95,East,Odisha,Bhubaneswar,Office,Printer,6,73715.4,10,14076.08,Salesperson_10
+282,2025-07-29,Customer_4,South,Tamil Nadu,Coimbatore,Office,Notebook,9,141622.2,5,7306.92,Salesperson_4
+283,2025-09-29,Customer_31,East,Bihar,Patna,Clothing,Shirt,7,307881.0,10,23395.03,Salesperson_7
+284,2025-07-10,Customer_59,West,Maharashtra,Mumbai,Clothing,Shirt,1,12535.2,20,1921.2,Salesperson_12
+285,2025-12-06,Customer_17,North,Haryana,Gurugram,Furniture,Bookshelf,2,62864.0,20,4122.04,Salesperson_4
+286,2025-04-14,Customer_18,East,Odisha,Bhubaneswar,Office,Pen,6,162923.4,10,17661.35,Salesperson_13
+287,2025-07-03,Customer_99,North,Delhi,Delhi,Furniture,Bookshelf,8,143344.0,15,11493.92,Salesperson_4
+288,2025-12-23,Customer_78,West,Gujarat,Surat,Clothing,Shirt,2,19492.2,10,5001.63,Salesperson_1
+289,2025-06-03,Customer_34,South,Tamil Nadu,Chennai,Electronics,Smartphone,6,127046.4,20,7907.07,Salesperson_14
+290,2025-03-13,Customer_16,South,Karnataka,Mysuru,Office,Notebook,2,61560.0,0,15449.97,Salesperson_1
+291,2025-05-13,Customer_10,North,Delhi,Delhi,Furniture,Bookshelf,6,272856.0,0,53365.44,Salesperson_1
+292,2025-01-26,Customer_22,North,Delhi,Delhi,Furniture,Chair,6,51174.0,0,14613.77,Salesperson_15
+293,2025-04-20,Customer_24,West,Rajasthan,Jaipur,Office,Printer,7,269386.25,15,25107.28,Salesperson_5
+294,2025-09-03,Customer_8,East,Odisha,Bhubaneswar,Electronics,Smartphone,5,141078.75,15,38189.26,Salesperson_2
+295,2025-07-15,Customer_92,East,Odisha,Bhubaneswar,Office,Notebook,9,121161.6,20,30134.29,Salesperson_6
+296,2025-11-02,Customer_29,West,Rajasthan,Jaipur,Clothing,Jacket,7,121182.95,5,6848.74,Salesperson_1
+297,2025-05-17,Customer_69,East,West Bengal,Kolkata,Clothing,Jeans,3,20126.7,5,4311.46,Salesperson_14
+298,2025-12-24,Customer_46,North,Delhi,Delhi,Clothing,Jeans,3,38404.8,20,4973.46,Salesperson_15
+299,2025-01-20,Customer_12,North,Haryana,Faridabad,Furniture,Desk,8,259401.6,10,24355.01,Salesperson_1
+300,2025-03-08,Customer_44,South,Telangana,Hyderabad,Electronics,Headphones,1,17792.0,20,1785.71,Salesperson_12
+301,2025-09-27,Customer_47,South,Tamil Nadu,Chennai,Electronics,Smartphone,10,443479.0,5,108027.77,Salesperson_2
+302,2025-08-12,Customer_82,East,Bihar,Patna,Electronics,Tablet,5,102799.5,5,30219.47,Salesperson_8
+303,2025-01-01,Customer_90,East,West Bengal,Kolkata,Furniture,Desk,7,129824.1,10,10624.43,Salesperson_10
+304,2025-09-12,Customer_19,West,Rajasthan,Jaipur,Furniture,Sofa,10,119808.0,20,9108.71,Salesperson_6
+305,2025-05-16,Customer_27,North,Delhi,Delhi,Clothing,Jeans,2,84531.6,10,13665.17,Salesperson_4
+306,2025-03-27,Customer_53,North,Punjab,Ludhiana,Electronics,Laptop,1,21923.2,15,5111.31,Salesperson_8
+307,2025-02-07,Customer_5,West,Gujarat,Surat,Electronics,Headphones,10,410029.5,5,37174.97,Salesperson_5
+308,2025-02-08,Customer_71,North,Punjab,Ludhiana,Electronics,Laptop,6,59404.8,15,5359.86,Salesperson_15
+309,2025-02-21,Customer_43,North,Punjab,Ludhiana,Electronics,Headphones,3,102767.55,15,9174.67,Salesperson_4
+310,2025-10-09,Customer_63,South,Tamil Nadu,Coimbatore,Clothing,Jacket,4,27140.0,0,4022.84,Salesperson_3
+311,2025-02-19,Customer_4,North,Punjab,Amritsar,Office,Printer,5,175544.0,20,29856.89,Salesperson_4
+312,2025-12-05,Customer_34,South,Telangana,Hyderabad,Electronics,Headphones,2,35203.6,15,5904.92,Salesperson_2
+313,2025-08-27,Customer_34,West,Maharashtra,Pune,Office,Pen,3,89142.0,0,10324.78,Salesperson_4
+314,2025-07-31,Customer_97,East,Bihar,Patna,Furniture,Chair,2,79716.6,10,20092.17,Salesperson_10
+315,2025-05-01,Customer_61,South,Telangana,Hyderabad,Office,Monitor,9,348281.55,15,67280.53,Salesperson_5
+316,2025-04-09,Customer_17,North,Punjab,Amritsar,Furniture,Chair,8,89900.4,5,26344.52,Salesperson_1
+317,2025-02-04,Customer_12,West,Maharashtra,Pune,Furniture,Desk,10,156600.0,10,43488.0,Salesperson_7
+318,2025-08-03,Customer_15,West,Rajasthan,Jaipur,Clothing,Shoes,1,37121.6,20,7309.02,Salesperson_7
+319,2025-05-16,Customer_50,South,Karnataka,Bengaluru,Electronics,Laptop,5,160213.5,10,43173.28,Salesperson_11
+320,2025-12-15,Customer_89,West,Rajasthan,Jaipur,Electronics,Smartphone,5,127817.75,5,26146.54,Salesperson_7
+321,2025-06-05,Customer_40,North,Punjab,Ludhiana,Furniture,Chair,8,130327.2,10,7175.58,Salesperson_5
+322,2025-06-14,Customer_35,West,Rajasthan,Jaipur,Furniture,Desk,5,209270.0,15,50958.86,Salesperson_12
+323,2025-07-11,Customer_8,West,Rajasthan,Jaipur,Furniture,Bookshelf,4,92425.6,15,22170.44,Salesperson_9
+324,2025-04-13,Customer_8,South,Karnataka,Mysuru,Office,Notebook,9,339912.0,0,31759.45,Salesperson_4
+325,2025-11-22,Customer_16,North,Punjab,Amritsar,Clothing,Jeans,5,104720.0,15,18460.21,Salesperson_11
+326,2025-06-26,Customer_21,North,Delhi,Delhi,Office,Monitor,3,75844.8,20,14246.19,Salesperson_14
+327,2025-04-20,Customer_29,East,Bihar,Patna,Clothing,Shirt,7,24957.45,5,6575.17,Salesperson_11
+328,2025-03-09,Customer_83,South,Telangana,Hyderabad,Clothing,Shoes,9,16326.0,0,2751.33,Salesperson_3
+329,2025-04-22,Customer_60,North,Delhi,Delhi,Clothing,Jacket,7,158583.6,10,26126.57,Salesperson_5
+330,2025-06-02,Customer_88,West,Rajasthan,Jaipur,Electronics,Tablet,9,309052.8,20,62509.8,Salesperson_2
+331,2025-09-22,Customer_98,West,Maharashtra,Pune,Clothing,Jacket,5,79263.0,10,7695.65,Salesperson_4
+332,2025-05-13,Customer_54,North,Haryana,Faridabad,Clothing,Jeans,1,36934.2,15,11056.89,Salesperson_7
+333,2025-09-01,Customer_86,West,Rajasthan,Jaipur,Furniture,Sofa,4,145529.6,20,30499.86,Salesperson_6
+334,2025-10-14,Customer_98,East,West Bengal,Kolkata,Clothing,Shirt,8,63964.8,10,14794.84,Salesperson_15
+335,2025-06-19,Customer_48,South,Telangana,Hyderabad,Electronics,Smartphone,6,81734.4,10,12678.49,Salesperson_5
+336,2025-04-10,Customer_65,East,Odisha,Bhubaneswar,Office,Printer,10,308248.0,20,20900.43,Salesperson_2
+337,2025-10-19,Customer_59,West,Rajasthan,Jaipur,Office,Printer,3,27080.7,5,3673.97,Salesperson_3
+338,2025-01-30,Customer_1,East,Bihar,Patna,Electronics,Headphones,6,238573.5,5,30621.75,Salesperson_8
+339,2025-08-08,Customer_52,East,West Bengal,Kolkata,Furniture,Bookshelf,2,14368.0,20,2276.29,Salesperson_7
+340,2025-09-29,Customer_25,West,Gujarat,Ahmedabad,Electronics,Smartphone,6,7678.8,10,1836.86,Salesperson_1
+341,2025-10-29,Customer_40,North,Haryana,Gurugram,Furniture,Sofa,5,44745.0,0,6527.74,Salesperson_3
+342,2025-12-18,Customer_18,North,Delhi,Delhi,Clothing,Shoes,9,284997.6,20,38320.43,Salesperson_6
+343,2025-03-09,Customer_28,West,Gujarat,Ahmedabad,Furniture,Bookshelf,1,14695.55,5,3406.31,Salesperson_12
+344,2025-11-16,Customer_7,North,Haryana,Gurugram,Electronics,Tablet,1,22579.2,10,5482.51,Salesperson_10
+345,2025-10-08,Customer_33,North,Haryana,Gurugram,Electronics,Laptop,2,47282.1,15,6858.9,Salesperson_8
+346,2025-11-07,Customer_90,South,Karnataka,Bengaluru,Clothing,Shoes,2,70265.6,20,8255.81,Salesperson_3
+347,2025-05-15,Customer_67,West,Maharashtra,Mumbai,Clothing,Shirt,2,62926.1,5,12726.83,Salesperson_4
+348,2025-12-19,Customer_62,East,Bihar,Patna,Clothing,Jeans,1,30958.7,15,8593.8,Salesperson_6
+349,2025-02-16,Customer_100,South,Karnataka,Bengaluru,Electronics,Laptop,10,376932.5,15,32900.98,Salesperson_9
+350,2025-02-21,Customer_23,North,Haryana,Gurugram,Clothing,Jeans,8,143280.0,10,23794.41,Salesperson_14
+351,2025-03-12,Customer_85,North,Punjab,Ludhiana,Clothing,Shoes,2,13450.0,0,705.02,Salesperson_11
+352,2025-07-25,Customer_52,South,Tamil Nadu,Coimbatore,Office,Pen,2,44856.0,10,4293.5,Salesperson_8
+353,2025-03-23,Customer_14,East,Odisha,Bhubaneswar,Office,Notebook,2,18368.0,0,5425.77,Salesperson_7
+354,2025-03-08,Customer_62,West,Rajasthan,Jaipur,Furniture,Bookshelf,6,243390.0,0,64655.08,Salesperson_15
+355,2025-12-14,Customer_68,West,Maharashtra,Pune,Office,Printer,2,31761.0,10,1686.19,Salesperson_13
+356,2025-11-25,Customer_50,South,Telangana,Hyderabad,Electronics,Headphones,4,115498.8,10,24939.39,Salesperson_3
+357,2025-06-19,Customer_36,North,Delhi,Delhi,Office,Monitor,3,13785.3,15,1794.27,Salesperson_1
+358,2025-08-18,Customer_12,South,Telangana,Hyderabad,Office,Notebook,2,51997.9,15,13015.87,Salesperson_14
+359,2025-10-13,Customer_71,West,Gujarat,Surat,Electronics,Headphones,1,6142.1,15,940.26,Salesperson_1
+360,2025-08-21,Customer_43,North,Haryana,Faridabad,Furniture,Bookshelf,6,145872.0,0,37072.96,Salesperson_9
+361,2025-07-01,Customer_82,West,Rajasthan,Jaipur,Office,Printer,2,82995.8,5,4195.37,Salesperson_13
+362,2025-07-29,Customer_14,East,Bihar,Patna,Electronics,Laptop,3,93397.35,5,23859.26,Salesperson_5
+363,2025-08-01,Customer_6,South,Karnataka,Bengaluru,Office,Notebook,8,93520.8,10,7195.62,Salesperson_15
+364,2025-08-10,Customer_75,North,Punjab,Ludhiana,Furniture,Bookshelf,1,35257.0,0,6639.13,Salesperson_8
+365,2025-06-14,Customer_65,South,Telangana,Hyderabad,Furniture,Chair,7,244109.6,20,49197.9,Salesperson_15
+366,2025-03-12,Customer_53,West,Gujarat,Ahmedabad,Clothing,Shoes,6,100867.8,15,25337.91,Salesperson_10
+367,2025-12-11,Customer_17,East,Bihar,Patna,Furniture,Desk,4,149058.0,10,33039.13,Salesperson_12
+368,2025-12-08,Customer_91,South,Telangana,Hyderabad,Electronics,Tablet,9,230263.2,20,44362.4,Salesperson_7
+369,2025-04-13,Customer_35,East,Odisha,Bhubaneswar,Electronics,Laptop,7,70168.0,0,15266.0,Salesperson_13
+370,2025-08-20,Customer_14,South,Tamil Nadu,Coimbatore,Furniture,Chair,5,55476.0,20,3221.86,Salesperson_10
+371,2025-12-17,Customer_41,South,Telangana,Hyderabad,Furniture,Sofa,1,21680.95,15,3341.94,Salesperson_9
+372,2025-10-07,Customer_95,North,Delhi,Delhi,Furniture,Bookshelf,4,151326.0,10,36133.16,Salesperson_10
+373,2025-03-30,Customer_95,South,Telangana,Hyderabad,Clothing,Shoes,3,135714.0,0,13129.53,Salesperson_9
+374,2025-05-11,Customer_1,North,Punjab,Amritsar,Office,Pen,9,152335.35,5,13745.56,Salesperson_6
+375,2025-11-17,Customer_79,West,Rajasthan,Jaipur,Electronics,Smartphone,6,237702.0,0,57860.29,Salesperson_14
+376,2025-09-16,Customer_21,East,Odisha,Bhubaneswar,Electronics,Tablet,9,127523.25,5,22973.51,Salesperson_7
+377,2025-11-13,Customer_68,West,Maharashtra,Pune,Furniture,Desk,6,119858.4,10,14789.76,Salesperson_8
+378,2025-12-16,Customer_42,North,Delhi,Delhi,Office,Notebook,10,391457.0,5,113414.57,Salesperson_7
+379,2025-08-17,Customer_63,North,Punjab,Ludhiana,Clothing,Shirt,9,180525.6,20,45258.52,Salesperson_1
+380,2025-11-17,Customer_9,East,Bihar,Patna,Clothing,Shirt,2,18352.0,20,3363.95,Salesperson_4
+381,2025-02-06,Customer_96,South,Telangana,Hyderabad,Electronics,Smartphone,9,356138.1,15,75373.17,Salesperson_11
+382,2025-05-09,Customer_72,South,Karnataka,Mysuru,Clothing,Shirt,2,10600.0,0,1001.68,Salesperson_2
+383,2025-12-11,Customer_16,South,Tamil Nadu,Coimbatore,Office,Monitor,7,181931.4,10,9864.82,Salesperson_9
+384,2025-12-18,Customer_39,North,Haryana,Gurugram,Electronics,Laptop,6,200718.0,0,24579.76,Salesperson_10
+385,2025-03-11,Customer_96,North,Punjab,Ludhiana,Office,Monitor,1,29984.85,5,5498.23,Salesperson_7
+386,2025-01-22,Customer_1,East,Bihar,Patna,Clothing,Jacket,1,29420.0,20,2510.8,Salesperson_10
+387,2025-09-20,Customer_19,West,Rajasthan,Jaipur,Clothing,Jeans,6,73317.6,15,20265.5,Salesperson_3
+388,2025-10-09,Customer_60,South,Karnataka,Mysuru,Furniture,Chair,3,106735.2,20,28078.06,Salesperson_11
+389,2025-06-19,Customer_46,North,Punjab,Amritsar,Clothing,Shirt,4,153766.4,20,26416.7,Salesperson_3
+390,2025-12-04,Customer_40,South,Karnataka,Mysuru,Electronics,Smartphone,6,164939.1,15,21786.23,Salesperson_12
+391,2025-04-24,Customer_92,South,Telangana,Hyderabad,Clothing,Shoes,3,2203.2,10,245.75,Salesperson_12
+392,2025-06-06,Customer_63,West,Gujarat,Surat,Furniture,Sofa,8,209664.4,15,29287.06,Salesperson_9
+393,2025-11-17,Customer_10,North,Delhi,Delhi,Clothing,Jeans,9,108321.3,10,25280.69,Salesperson_12
+394,2025-10-04,Customer_61,North,Delhi,Delhi,Office,Notebook,1,32984.1,10,6130.67,Salesperson_11
+395,2025-07-23,Customer_47,South,Tamil Nadu,Coimbatore,Furniture,Sofa,3,74289.6,20,13194.06,Salesperson_9
+396,2025-10-17,Customer_85,North,Haryana,Gurugram,Furniture,Desk,8,83098.4,5,15920.77,Salesperson_14
+397,2025-07-09,Customer_30,South,Telangana,Hyderabad,Clothing,Shirt,4,123340.4,5,8105.35,Salesperson_1
+398,2025-06-15,Customer_14,South,Telangana,Hyderabad,Office,Monitor,8,28344.0,0,8365.66,Salesperson_12
+399,2025-02-09,Customer_67,East,Bihar,Patna,Furniture,Bookshelf,7,136864.0,20,29197.76,Salesperson_5
+400,2025-03-13,Customer_57,West,Maharashtra,Pune,Clothing,Jacket,8,205408.0,20,10609.2,Salesperson_3
+401,2025-03-02,Customer_85,South,Karnataka,Mysuru,Furniture,Desk,3,29192.4,10,5853.22,Salesperson_4
+402,2025-07-30,Customer_3,West,Gujarat,Ahmedabad,Office,Monitor,8,91571.2,20,8269.94,Salesperson_4
+403,2025-04-03,Customer_67,North,Delhi,Delhi,Furniture,Chair,10,101240.0,0,9272.1,Salesperson_7
+404,2025-03-29,Customer_29,North,Haryana,Faridabad,Electronics,Smartphone,8,273693.2,15,73028.35,Salesperson_14
+405,2025-11-02,Customer_76,West,Rajasthan,Jaipur,Furniture,Sofa,3,129492.0,10,36333.9,Salesperson_2
+406,2025-09-16,Customer_88,South,Tamil Nadu,Coimbatore,Furniture,Chair,1,11008.8,20,2916.21,Salesperson_7
+407,2025-09-30,Customer_65,South,Telangana,Hyderabad,Furniture,Bookshelf,10,398090.0,0,107260.64,Salesperson_13
+408,2025-01-23,Customer_90,North,Delhi,Delhi,Furniture,Chair,7,206536.4,15,29450.93,Salesperson_9
+409,2025-03-10,Customer_33,West,Maharashtra,Pune,Office,Pen,10,392696.0,20,29228.06,Salesperson_8
+410,2025-03-02,Customer_67,South,Karnataka,Mysuru,Office,Pen,4,3432.0,0,667.51,Salesperson_1
+411,2025-10-27,Customer_33,West,Rajasthan,Jaipur,Clothing,Shoes,6,42664.5,5,6677.76,Salesperson_5
+412,2025-09-05,Customer_23,West,Rajasthan,Jaipur,Clothing,Shoes,4,88259.2,20,21707.09,Salesperson_6
+413,2025-08-17,Customer_90,West,Gujarat,Surat,Clothing,Shoes,3,131118.0,0,31068.88,Salesperson_3
+414,2025-03-16,Customer_61,North,Delhi,Delhi,Clothing,Shirt,3,78000.0,0,19585.2,Salesperson_15
+415,2025-07-16,Customer_52,West,Maharashtra,Mumbai,Clothing,Jeans,6,27576.0,20,1639.09,Salesperson_10
+416,2025-09-23,Customer_37,East,Bihar,Patna,Furniture,Bookshelf,8,9127.6,5,2397.29,Salesperson_4
+417,2025-02-14,Customer_36,North,Haryana,Gurugram,Furniture,Chair,6,97074.0,0,28531.16,Salesperson_13
+418,2025-10-09,Customer_37,West,Gujarat,Surat,Office,Notebook,9,13563.0,0,3794.85,Salesperson_12
+419,2025-03-31,Customer_53,East,Odisha,Bhubaneswar,Furniture,Desk,8,172627.2,20,8832.1,Salesperson_9
+420,2025-10-22,Customer_33,North,Haryana,Gurugram,Clothing,Jacket,2,61448.4,10,16531.36,Salesperson_12
+421,2025-01-15,Customer_62,West,Gujarat,Surat,Furniture,Sofa,8,307142.4,15,84197.24,Salesperson_2
+422,2025-01-05,Customer_90,East,West Bengal,Kolkata,Furniture,Desk,6,148651.2,10,26627.3,Salesperson_14
+423,2025-09-01,Customer_41,East,West Bengal,Kolkata,Electronics,Headphones,6,26313.6,20,7442.78,Salesperson_6
+424,2025-05-04,Customer_34,South,Telangana,Hyderabad,Furniture,Desk,8,370933.2,5,40326.13,Salesperson_4
+425,2025-12-06,Customer_64,South,Karnataka,Bengaluru,Clothing,Jeans,2,16712.0,0,3659.14,Salesperson_10
+426,2025-10-22,Customer_36,North,Haryana,Gurugram,Office,Pen,10,179953.5,15,49402.69,Salesperson_8
+427,2025-08-05,Customer_62,South,Telangana,Hyderabad,Office,Notebook,10,89040.0,0,16154.87,Salesperson_9
+428,2025-12-19,Customer_2,North,Haryana,Faridabad,Office,Notebook,8,53683.2,20,8858.68,Salesperson_1
+429,2025-05-02,Customer_35,South,Tamil Nadu,Chennai,Clothing,Jacket,10,166430.5,5,31145.95,Salesperson_8
+430,2025-07-25,Customer_36,East,Odisha,Bhubaneswar,Office,Monitor,4,100674.0,10,14222.17,Salesperson_8
+431,2025-07-15,Customer_26,South,Telangana,Hyderabad,Furniture,Chair,5,63812.0,20,10085.79,Salesperson_3
+432,2025-06-11,Customer_63,South,Tamil Nadu,Chennai,Furniture,Bookshelf,8,59596.8,20,10935.75,Salesperson_5
+433,2025-09-01,Customer_81,East,Bihar,Patna,Office,Printer,3,12636.9,5,3202.88,Salesperson_2
+434,2025-05-12,Customer_45,West,Rajasthan,Jaipur,Clothing,Jacket,6,178670.4,20,50556.78,Salesperson_1
+435,2025-09-07,Customer_100,West,Maharashtra,Pune,Furniture,Desk,5,106974.0,10,23352.23,Salesperson_12
+436,2025-11-10,Customer_74,West,Maharashtra,Pune,Clothing,Shoes,3,31001.4,10,4819.3,Salesperson_7
+437,2025-11-06,Customer_83,North,Delhi,Delhi,Clothing,Jeans,6,114836.4,10,26137.73,Salesperson_7
+438,2025-05-01,Customer_85,East,Odisha,Bhubaneswar,Office,Monitor,3,37653.0,0,3059.68,Salesperson_5
+439,2025-01-14,Customer_99,North,Delhi,Delhi,Office,Printer,2,7956.0,15,1488.63,Salesperson_7
+440,2025-05-26,Customer_57,North,Delhi,Delhi,Furniture,Chair,7,138147.1,5,15451.63,Salesperson_11
+441,2025-10-04,Customer_35,South,Karnataka,Bengaluru,Electronics,Laptop,6,111241.2,15,18554.85,Salesperson_9
+442,2025-06-27,Customer_62,West,Maharashtra,Mumbai,Office,Monitor,9,305488.8,20,38923.96,Salesperson_9
+443,2025-01-01,Customer_67,South,Karnataka,Mysuru,Clothing,Jacket,7,116547.9,5,14672.59,Salesperson_14
+444,2025-08-09,Customer_38,South,Tamil Nadu,Coimbatore,Office,Printer,8,228708.0,10,11957.57,Salesperson_10
+445,2025-11-27,Customer_50,South,Karnataka,Mysuru,Furniture,Bookshelf,9,222966.9,15,25077.99,Salesperson_14
+446,2025-12-17,Customer_35,West,Maharashtra,Pune,Electronics,Headphones,4,109939.2,20,27693.0,Salesperson_5
+447,2025-11-13,Customer_58,East,Odisha,Bhubaneswar,Electronics,Smartphone,3,58434.0,0,12225.75,Salesperson_5
+448,2025-02-22,Customer_37,West,Maharashtra,Pune,Electronics,Smartphone,1,35559.0,0,3430.89,Salesperson_5
+449,2025-06-25,Customer_54,South,Telangana,Hyderabad,Electronics,Smartphone,2,20750.0,0,3597.94,Salesperson_5
+450,2025-07-20,Customer_10,West,Gujarat,Surat,Electronics,Tablet,2,94409.1,5,6043.09,Salesperson_9
+451,2025-08-15,Customer_32,West,Maharashtra,Mumbai,Clothing,Shoes,1,8067.4,5,1179.45,Salesperson_12
+452,2025-03-23,Customer_81,North,Delhi,Delhi,Electronics,Smartphone,8,187207.2,10,53176.92,Salesperson_12
+453,2025-12-08,Customer_28,North,Haryana,Gurugram,Clothing,Shoes,5,60853.5,10,16544.84,Salesperson_2
+454,2025-05-05,Customer_2,South,Telangana,Hyderabad,Clothing,Shirt,3,44625.6,20,3566.14,Salesperson_1
+455,2025-11-13,Customer_44,West,Rajasthan,Jaipur,Clothing,Shirt,4,36835.6,15,2683.49,Salesperson_15
+456,2025-10-13,Customer_83,North,Delhi,Delhi,Furniture,Chair,3,92542.35,5,11955.07,Salesperson_13
+457,2025-01-21,Customer_63,East,Odisha,Bhubaneswar,Electronics,Headphones,6,273451.8,5,30810.92,Salesperson_12
+458,2025-08-28,Customer_36,West,Rajasthan,Jaipur,Office,Notebook,10,101840.0,20,13943.54,Salesperson_14
+459,2025-11-23,Customer_65,South,Karnataka,Bengaluru,Office,Pen,5,161973.0,10,26485.78,Salesperson_7
+460,2025-04-08,Customer_68,South,Karnataka,Mysuru,Furniture,Sofa,2,69825.6,20,17788.94,Salesperson_11
+461,2025-09-25,Customer_85,West,Rajasthan,Jaipur,Clothing,Jacket,7,267762.6,10,20782.67,Salesperson_2
+462,2025-10-20,Customer_83,North,Delhi,Delhi,Electronics,Smartphone,2,61387.1,5,4584.9,Salesperson_14
+463,2025-01-07,Customer_27,West,Rajasthan,Jaipur,Clothing,Shirt,6,71832.0,20,16482.66,Salesperson_11
+464,2025-12-29,Customer_8,West,Maharashtra,Pune,Electronics,Tablet,9,376563.6,15,96214.5,Salesperson_14
+465,2025-04-29,Customer_69,East,Bihar,Patna,Electronics,Tablet,2,23438.4,20,1741.0,Salesperson_7
+466,2025-08-23,Customer_90,South,Karnataka,Bengaluru,Furniture,Bookshelf,2,67763.2,20,9452.35,Salesperson_11
+467,2025-11-04,Customer_57,West,Maharashtra,Mumbai,Furniture,Bookshelf,9,193392.45,5,35482.7,Salesperson_15
+468,2025-10-16,Customer_70,East,Odisha,Bhubaneswar,Clothing,Shoes,7,302841.0,10,61205.18,Salesperson_4
+469,2025-05-26,Customer_77,West,Rajasthan,Jaipur,Clothing,Shoes,8,212184.0,0,49137.21,Salesperson_1
+470,2025-12-20,Customer_36,South,Tamil Nadu,Chennai,Clothing,Jeans,4,84548.0,0,20535.08,Salesperson_15
+471,2025-10-26,Customer_32,South,Karnataka,Bengaluru,Office,Pen,3,25839.0,10,3663.21,Salesperson_4
+472,2025-03-30,Customer_63,East,Odisha,Bhubaneswar,Office,Notebook,2,86256.0,10,21410.99,Salesperson_14
+473,2025-08-11,Customer_54,North,Haryana,Faridabad,Electronics,Headphones,2,7495.2,10,1026.71,Salesperson_15
+474,2025-10-17,Customer_20,North,Delhi,Delhi,Office,Printer,5,174325.0,0,22632.46,Salesperson_6
+475,2025-08-10,Customer_38,South,Karnataka,Bengaluru,Office,Monitor,10,305592.0,20,22161.76,Salesperson_13
+476,2025-05-15,Customer_11,West,Maharashtra,Mumbai,Clothing,Shirt,8,303592.0,0,56783.27,Salesperson_7
+477,2025-10-20,Customer_26,West,Rajasthan,Jaipur,Furniture,Bookshelf,9,103144.95,15,15351.03,Salesperson_9
+478,2025-12-10,Customer_53,South,Karnataka,Bengaluru,Clothing,Shoes,6,217795.2,20,15768.08,Salesperson_7
+479,2025-03-28,Customer_45,East,Odisha,Bhubaneswar,Clothing,Jacket,10,434520.0,0,105336.48,Salesperson_10
+480,2025-02-13,Customer_15,West,Rajasthan,Jaipur,Office,Printer,4,48909.6,10,4352.85,Salesperson_12
+481,2025-08-30,Customer_3,North,Delhi,Delhi,Clothing,Shirt,6,275808.0,0,34828.9,Salesperson_6
+482,2025-03-14,Customer_89,South,Telangana,Hyderabad,Furniture,Sofa,9,231516.0,20,53823.05,Salesperson_12
+483,2025-11-13,Customer_35,North,Punjab,Amritsar,Clothing,Jeans,1,18157.35,5,4490.26,Salesperson_1
+484,2025-01-10,Customer_38,West,Rajasthan,Jaipur,Electronics,Headphones,5,197770.5,10,52620.91,Salesperson_14
+485,2025-04-12,Customer_65,West,Maharashtra,Pune,Electronics,Tablet,8,253638.4,20,18263.28,Salesperson_8
+486,2025-12-17,Customer_46,North,Delhi,Delhi,Clothing,Jacket,8,199735.6,5,10904.18,Salesperson_6
+487,2025-04-26,Customer_20,East,West Bengal,Kolkata,Electronics,Tablet,7,13613.6,20,3910.9,Salesperson_6
+488,2025-12-18,Customer_30,West,Rajasthan,Jaipur,Electronics,Headphones,9,323517.6,20,86759.45,Salesperson_7
+489,2025-04-16,Customer_84,South,Telangana,Hyderabad,Office,Pen,10,187680.0,15,34825.61,Salesperson_3
+490,2025-06-12,Customer_9,South,Karnataka,Mysuru,Furniture,Bookshelf,3,104414.4,20,29160.65,Salesperson_9
+491,2025-11-23,Customer_95,North,Delhi,Delhi,Furniture,Chair,6,140933.4,15,17734.64,Salesperson_5
+492,2025-10-18,Customer_79,South,Karnataka,Bengaluru,Furniture,Desk,1,32484.8,20,3791.48,Salesperson_4
+493,2025-08-29,Customer_92,South,Karnataka,Bengaluru,Clothing,Shirt,8,59436.8,20,15544.78,Salesperson_11
+494,2025-07-29,Customer_98,East,West Bengal,Kolkata,Office,Monitor,3,32014.05,5,3411.68,Salesperson_1
+495,2025-09-08,Customer_89,East,Odisha,Bhubaneswar,Furniture,Desk,2,20576.8,15,5489.53,Salesperson_6
+496,2025-07-21,Customer_79,West,Maharashtra,Pune,Office,Printer,10,413865.0,15,95209.74,Salesperson_12
+497,2025-01-21,Customer_72,North,Haryana,Gurugram,Office,Monitor,1,13282.4,20,2450.17,Salesperson_7
+498,2025-05-31,Customer_79,North,Delhi,Delhi,Office,Monitor,5,81757.25,15,7490.73,Salesperson_15
+499,2025-10-27,Customer_90,North,Haryana,Gurugram,Office,Monitor,2,76574.4,20,5995.23,Salesperson_9
+500,2025-12-31,Customer_26,South,Tamil Nadu,Coimbatore,Clothing,Shoes,1,10388.7,15,2052.59,Salesperson_15
