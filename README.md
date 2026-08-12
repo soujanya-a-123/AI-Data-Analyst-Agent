@@ -20,6 +20,24 @@ This ensures that numerical answers are calculated from the real data rather tha
 
 ---
 
+
+### Your final VS Code structure
+
+Keep it like this:
+
+```text
+AI_Data_Analyst/
+│
+├── app.py
+├── analyst.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── .env
+├── sample_data.csv
+└── venv/
+---
+
 # 🎯 Project Objective
 
 The main objective of this project is to build a **Natural Language Data Analysis Agent**.
