@@ -36,6 +36,7 @@ AI_Data_Analyst/
 ├── .env
 ├── sample_data.csv
 └── venv/
+```
 ---
 
 # 🎯 Project Objective
