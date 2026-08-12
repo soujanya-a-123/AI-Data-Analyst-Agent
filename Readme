@@ -2,23 +2,23 @@
 
 An AI-powered data analysis application that allows users to upload CSV or Excel files and ask questions about their data using natural language.
 
-The application uses **Groq LLM** to generate Python/Pandas analysis code, executes the generated code on the actual uploaded dataset, and presents the computed results with tables, visualizations, and AI-generated explanations.
+The application uses **Groq LLM** to generate Python/Pandas analysis code, executes the code on the actual uploaded dataset, and displays accurate computed results with supporting tables, visualizations, and AI-generated explanations.
 
 ---
 
 ## 🚀 Project Overview
 
-Traditional data analysis often requires users to know Python, SQL, or Excel formulas.
+The **AI Data Analyst Agent** allows users to interact with structured datasets without manually writing Python or Pandas code.
 
-The **AI Data Analyst Agent** provides a natural-language interface where users can simply ask questions such as:
+Users can upload a CSV or Excel file and ask questions such as:
 
 > Which region has the highest sales?
 
-or
+or:
 
 > Which region grew fastest last quarter?
 
-The system understands the question, generates appropriate Pandas code, executes the calculation on the uploaded dataset, and displays the result.
+The system generates the required Pandas code, executes it on the real dataset, and presents the result.
 
 ---
 
@@ -26,50 +26,52 @@ The system understands the question, generates appropriate Pandas code, executes
 
 - 📁 Upload CSV files
 - 📊 Upload Excel `.xlsx` files
-- 🔍 Automatically inspect dataset structure
-- 📋 Preview uploaded data
-- 📈 View dataset statistics
+- 📋 Preview uploaded datasets
+- 🔍 View dataset information
+- 📊 Display rows and columns
+- ❗ Detect missing values
+- 🔄 Detect duplicate rows
 - 🔎 View column information
-- 💬 Ask questions in natural language
+- 💬 Ask questions using natural language
 - 🤖 Generate Pandas code using Groq
-- 🧮 Perform real calculations on the dataset
+- 🧮 Perform real calculations using Pandas
 - 📊 Display computed results
-- 📈 Generate supporting visualizations
-- 🐍 Display generated Python code
-- 💡 Generate natural-language explanations
-- ⬇️ Download analysis results
+- 📈 Generate visualizations using Plotly
+- 🐍 View generated Python code
+- 💡 Generate AI explanations
+- ⬇️ Download computed results
 - 📅 Support date and quarterly analysis
-- 🛡️ Basic restrictions on generated code
 
 ---
 
-# 🧠 How the Project Works
+# 🧠 How It Works
 
-The project follows this workflow:
+The application follows this workflow:
 
 ```text
-User Uploads CSV / Excel
-          │
-          ▼
-   Pandas DataFrame
-          │
-          ▼
- Natural Language Question
-          │
-          ▼
-       Groq LLM
-          │
-          ▼
- Generated Python/Pandas Code
-          │
-          ▼
- Execute Code on Real Dataset
-          │
-          ▼
-    Computed Result
-       │       │
-       ▼       ▼
-   AI Answer  Chart
-       │
-       ▼
-   User Interface
+              Upload CSV / Excel
+                      │
+                      ▼
+              Pandas DataFrame
+                      │
+                      ▼
+             User Question
+                      │
+                      ▼
+                 Groq LLM
+                      │
+                      ▼
+          Pandas Analysis Code
+                      │
+                      ▼
+          Execute on Real Dataset
+                      │
+                      ▼
+             Computed Result
+                │          │
+                ▼          ▼
+           AI Answer    Visualization
+                │          │
+                └────┬─────┘
+                     ▼
+               Streamlit UI
